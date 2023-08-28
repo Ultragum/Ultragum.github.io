@@ -32,8 +32,9 @@ body {
     margin-left: auto;
 }
 
+
 .mainbody {
-    padding: 0px 20px 0px 20px;
+    padding: 0px 40px 0px 40px;
 }
 
 p {
@@ -42,7 +43,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-a {
+.a-header {
     font-size: 24px;
     padding: 20px;
     margin: 10px 6px 10px 6px;
